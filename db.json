@@ -1,5 +1,6 @@
 {
-  "department":[{
+  "department":
+  [{
     "site":"65 Park Lane",
     "siteIsActive":false,
     "department":"65 Ground Reception",
@@ -96,5 +97,7 @@
     "site":"65 Park Lane",
     "siteIsActive":false,
     "department":"65 Park,Grid South Stella,(10)",
-    "departmentIsActive":true}
+    "departmentIsActive":true
+}
 ]
+}
